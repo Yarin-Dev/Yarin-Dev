@@ -35,6 +35,7 @@ Multiplayer game server framework written in Python using WebSockets.
 - Position and world state syncing
 - Handles high player counts at once
 - Built for virtual worlds and multiplayer games
+- Anti-cheat and server security
 
 ## Technologies
 
