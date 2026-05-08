@@ -1,6 +1,7 @@
 # Hi, I'm Yarin 👋
 
 Developer interested in backend systems, multiplayer games and cybersecurity
+I develop and host Discord bots used by different online communities and content creators.
 
 ## Github Projects
 
@@ -22,7 +23,7 @@ Modular Discord casino bot built with Python and Nextcord.
 - Play & bet with each other online on discord
   
 ### Discord Server List Bot (Closed Source)
-Discord bot used across hundreds of servers for managing server listings and vote systems.
+A verifed Discord bot used across hundreds of servers for managing server listings and vote systems.
 
 - Vote tracking system
 - Multi-server support
