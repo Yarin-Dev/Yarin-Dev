@@ -38,6 +38,14 @@ Multiplayer game server framework written in Python using WebSockets.
 - Built for virtual worlds and multiplayer games
 - Anti-cheat and server security
 
+### Yad Vashem Search Tool (still In Development / Closed Source)
+Multiplayer game server framework written in Python using WebSockets.
+
+A website that allows users to search through thousands of items in the Yad Vashem archive using advanced AI models for highly intelligent search. For example, searching for “girl eating during the Holocaust” can still find relevant images even if the girl is not tagged directly or only appears in the background of the photo.
+The project was developed as part of the nitzanim program. More information and articles about the project:
+https://www.ice.co.il/digital-140/news/article/1109443
+https://www.pc.co.il/news/449478/
+
 ## Technologies
 
 Python • SQL • Websockets • Backend Development * Java * More..
