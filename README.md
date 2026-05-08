@@ -20,15 +20,15 @@ Modular Discord casino bot built with Python and Nextcord.
 - Validation and error handling system
 - Easy to change/add commands design
 - Play & bet with each other online on discord
-- 
-### Discord Server List Bot *(Closed Source)*
+  
+### Discord Server List Bot (Closed Source)
 Discord bot used across hundreds of servers for managing server listings and vote systems.
 
 - Vote tracking system
 - Multi-server support
 - Automated server ranking features
 
-### Python MMO Server *(still In Development / Closed Source)*
+### Python MMO Server (still In Development / Closed Source)
 Multiplayer game server framework written in Python using WebSockets.
 
 - Real time player synchronization
