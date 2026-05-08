@@ -1,6 +1,6 @@
 # Hi, I'm Yarin 👋
 
-Developer interested in backend systems, multiplayer games and cybersecurity
+Developer interested in backend systems, multiplayer games and cybersecurity.
 I develop and host Discord bots used by different online communities and content creators.
 
 ## Github Projects
