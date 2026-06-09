@@ -52,7 +52,7 @@ A verifed Discord bot used across hundreds of servers for managing server listin
 Python • SQL • MongoDB • Websockets • Backend Development • Java • docker • git • Cryptography • Network Security • Godot
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,docker,mongodb,sqlite,git,godot,bash, discord,flask,pycharm,vscode,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=python,java,docker,mongodb,sqlite,git,godot,bash,discord,flask,pycharm,vscode,cloudflare" />
 </p>
 
 
